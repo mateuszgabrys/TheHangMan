@@ -1,0 +1,13 @@
+D:\Motorola\TheHangMan\TheHangMan\bin\Debug\netcoreapp3.1\TheHangMan.exe
+D:\Motorola\TheHangMan\TheHangMan\bin\Debug\netcoreapp3.1\TheHangMan.deps.json
+D:\Motorola\TheHangMan\TheHangMan\bin\Debug\netcoreapp3.1\TheHangMan.runtimeconfig.json
+D:\Motorola\TheHangMan\TheHangMan\bin\Debug\netcoreapp3.1\TheHangMan.runtimeconfig.dev.json
+D:\Motorola\TheHangMan\TheHangMan\bin\Debug\netcoreapp3.1\TheHangMan.dll
+D:\Motorola\TheHangMan\TheHangMan\bin\Debug\netcoreapp3.1\TheHangMan.pdb
+D:\Motorola\TheHangMan\TheHangMan\obj\Debug\netcoreapp3.1\TheHangMan.csprojAssemblyReference.cache
+D:\Motorola\TheHangMan\TheHangMan\obj\Debug\netcoreapp3.1\TheHangMan.AssemblyInfoInputs.cache
+D:\Motorola\TheHangMan\TheHangMan\obj\Debug\netcoreapp3.1\TheHangMan.AssemblyInfo.cs
+D:\Motorola\TheHangMan\TheHangMan\obj\Debug\netcoreapp3.1\TheHangMan.csproj.CoreCompileInputs.cache
+D:\Motorola\TheHangMan\TheHangMan\obj\Debug\netcoreapp3.1\TheHangMan.dll
+D:\Motorola\TheHangMan\TheHangMan\obj\Debug\netcoreapp3.1\TheHangMan.pdb
+D:\Motorola\TheHangMan\TheHangMan\obj\Debug\netcoreapp3.1\TheHangMan.genruntimeconfig.cache
